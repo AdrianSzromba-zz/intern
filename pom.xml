@@ -71,6 +71,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>faust</finalName>
+		<finalName>intern</finalName>
 	</build>
 </project>
