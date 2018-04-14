@@ -16,7 +16,14 @@
 </head>
 <body>
 
-Hello
+<div align="center">
+		<div id="container">
+			<%@ include file="jspf/header.jspf"%>
+			<%@ include file="jspf/main_menu.jspf"%>
+			<%@ include file="jspf/content.jspf"%>
+			<%@ include file="jspf/footer.jspf"%>
+		</div>
+	</div>
 
 </body>
 </html>
